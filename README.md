@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Importing and Exporting Files
+# Lab | Importing and Exporting Filess
 
 
 ## Introduction
